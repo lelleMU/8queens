@@ -1,3 +1,4 @@
+#这是一个产生八皇后问题求解的Python程序
 import random
 import math
 from datetime import datetime
