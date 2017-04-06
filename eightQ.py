@@ -272,3 +272,14 @@ def generatesolution(num,flag):#flag是1的时候选用重启爬山法，是2则
         
         
     
+    
+
+
+	
+    
+    
+    
+
+
+
+
